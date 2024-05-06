@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="GameConsole.Game.View.GameFieldView">
+    <Position X="10" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAIAgAAAAAAAQAAAAAAAAAAAAAAQAAABAA=</HashCode>
+      <FileName>Game\View\GameFieldView.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="GameConsole.Menu.View.MenuPointView">
+    <Position X="4.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAACAAIAgAAAAAAAAAEIAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Menu\View\MenuPointView.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="GameConsole.Menu.View.MenuScreenView">
+    <Position X="6.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIgAAAAAAAAAAAAAAAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>Menu\View\MenuScreenView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameConsole.Menu.View.ScreenView">
+    <Position X="6.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAABAJAAAAAAAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Menu\View\ScreenView.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="GameConsole.Menu.View.TextComponentView">
+    <Position X="8.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACBIEAAAAIAgEAAAAAAAAAKAAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>Menu\View\TextComponentView.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="Game.View.IView">
+    <Position X="7.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

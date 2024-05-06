@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net472</TargetFramework>
+        <LangVersion>default</LangVersion>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Compile Remove="Game\Storage.cs" />
+      <Compile Remove="Game\Item.cs" />
+      <Compile Remove="Class1.cs" />
+    </ItemGroup>
+
+</Project>

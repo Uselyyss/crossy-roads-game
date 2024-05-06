@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="GameConsole.Game.Controller.GameController">
+    <Position X="3.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEgAACACEAAAIAAAAAQAAAAAAAAAAAYAAAAAAAAAA=</HashCode>
+      <FileName>Game\Controller\GameController.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ConsoleColumns.Menu.Controller.ScreenController">
+    <Position X="7.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAgAACAAABIgBAAAAAAAAAAAgAEAIAAAAAAEABg=</HashCode>
+      <FileName>Menu\Controller\ScreenController.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="GameConsole.Menu.Controller.MenuScreenController">
+    <Position X="5.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAACAAAAAAAAAAAAAAAAAAAAAAQAACAAAAAAA=</HashCode>
+      <FileName>Menu\Controller\MenuScreenController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameConsole.Game.Controller.InputRecordController">
+    <Position X="8.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIIAAACAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Game\Controller\InputRecordController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Game.Controller.IController">
+    <Position X="5.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

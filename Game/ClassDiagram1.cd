@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Game.Game.Coordinates">
+    <Position X="7" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAQAAAAAgAAAAAAAAAAAAAAAAAAAAAAAYAA=</HashCode>
+      <FileName>Game\Coordinates.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game.Game.GameCell">
+    <Position X="8.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAAAAAAIAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Game\GameCell.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game.Game.Player">
+    <Position X="8.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAggAAAAAAAAAAAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>Game\Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game.Game.Unit">
+    <Position X="5.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAEAAgggACAAAAAAAAAAAAAAAAAIgAAAAAA=</HashCode>
+      <FileName>Game\Unit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Game.Game.CellType">
+    <Position X="7" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAAIAAAAAAAAAAAQAAAAAAQAAAAA=</HashCode>
+      <FileName>Game\CellType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Game.Game.KeyDirection">
+    <Position X="5.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAACACAAAAAAAI=</HashCode>
+      <FileName>Game\KeyDirection.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
